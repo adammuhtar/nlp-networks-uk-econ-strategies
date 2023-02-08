@@ -1,0 +1,13 @@
+python>=3.9
+bs4
+matplotlib
+networkx
+pandas
+pdfplumber
+plotly
+pypandoc
+requests
+seaborn
+scikit-learn
+spacy
+unicodedata
